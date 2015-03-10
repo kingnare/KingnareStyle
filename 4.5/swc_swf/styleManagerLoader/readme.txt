@@ -1,0 +1,1 @@
+使用styleManager.loadStyleDeclarations2("style.swf");方法加载样式
