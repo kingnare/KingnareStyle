@@ -1,1 +1,1 @@
-使用styleManager.loadStyleDeclarations2("style.swf");方法加载样式
+锘夸娇鐢╯tyleManager.loadStyleDeclarations2("style.swf");鏂规硶鍔犺浇鏍峰紡

@@ -1,12 +1,12 @@
-Ê¹ÓÃ·½·¨1:
+ï»¿ä½¿ç”¨æ–¹æ³•1:
 
-ÔÚFlash Builder 4/4.5ÖĞÇĞ»»µ½Éè¼ÆÄ£Ê½, ÓÒ²àAppearanceÃæ°åÀ¸ÕÒµ½Project theme, µã»÷Current theme, µ¯³öÖ÷ÌâÑ¡Ôñ´°¿Ú. µã»÷Import Theme...ÕÒµ½KingnareBlackTheme.swc, Ñ¡Ôñ²¢±£´æ.
+åœ¨Flash Builder 4/4.5ä¸­åˆ‡æ¢åˆ°è®¾è®¡æ¨¡å¼, å³ä¾§Appearanceé¢æ¿æ æ‰¾åˆ°Project theme, ç‚¹å‡»Current theme, å¼¹å‡ºä¸»é¢˜é€‰æ‹©çª—å£. ç‚¹å‡»Import Theme...æ‰¾åˆ°KingnareBlackTheme.swc, é€‰æ‹©å¹¶ä¿å­˜.
 
-Ê¹ÓÃ·½·¨2:
+ä½¿ç”¨æ–¹æ³•2:
 
-½«KingnareBlackTheme.swcÎÄ¼ş¼ÓÈëÏîÄ¿libsÎÄ¼ş¼ĞÖĞ.½øÈëFlex CompilerÃæ°å, 
-ÔÚcompiler arguments¼ÓÈë:
+å°†KingnareBlackTheme.swcæ–‡ä»¶åŠ å…¥é¡¹ç›®libsæ–‡ä»¶å¤¹ä¸­.è¿›å…¥Flex Compileré¢æ¿, 
+åœ¨compiler argumentsåŠ å…¥:
 
 	-theme ../libs/KingnareBlackTheme.swc
 
-ÕâÖÖ·½Ê½ÔÚÉè¼ÆÄ£Ê½ÏÂ²»ÄÜÔ¤ÀÀĞÂÖ÷Ìâ.
+è¿™ç§æ–¹å¼åœ¨è®¾è®¡æ¨¡å¼ä¸‹ä¸èƒ½é¢„è§ˆæ–°ä¸»é¢˜.
